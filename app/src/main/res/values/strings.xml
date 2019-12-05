@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Farmer App</string>
+    <string name="jai_javaan_jai_kisaan">JAI JAVAAN JAI KISAAN</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="new_to_this">New to this ?</string>
+</resources>
